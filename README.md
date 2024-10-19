@@ -1,2 +1,2 @@
-# projet_6
-clim sim &amp; readme repo
+# projet_6: **Physics AI and Uncertainty**
+This project is based on this [kaggle](https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim/overview) challenge, where the aim was to develop a Deep Learning framework capable of emulating subgrid atmospheric processes. Moreover, the goal is to mitigate Physics AI, using for instance PINN ( see [Physics Informed Machine Learning](https://www.nature.com/articles/s42254-021-00314-5)) and Uncertainty quantification in DL framework.
