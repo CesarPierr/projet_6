@@ -7,4 +7,4 @@
 
 
 # **Uncertainity quantification**: 
-1. J'ai travaillé avec un labo qui utilisait des réseaux bayesiens et il avait pas mal dans l'idée d'avoir une quantification de leur incertitude ( car application dans la maintenance predictive): http://profs.polymtl.ca/jagoulet/Site/Goulet_web_page_MAIN.html  --> librairie cuTAGI https://github.com/lhnguyen102/cuTAGI
+1. J'ai travaillé avec un labo qui utilisait des réseaux bayesiens et il avait pas mal dans l'idée d'avoir une quantification de leur incertitude ( car application dans la maintenance predictive): http://profs.polymtl.ca/jagoulet/Site/Goulet_web_page_MAIN.html  --> librairie [cuTAGI](https://github.com/lhnguyen102/cuTAGI)
